@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_RecyclerView_with_List</string>
+    <string name="lista">Agrega valor</string>
+    <string name="agrega">Lista Recycler</string>
+</resources>
